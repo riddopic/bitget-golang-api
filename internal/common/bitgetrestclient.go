@@ -1,9 +1,9 @@
 package common
 
 import (
-	"bitget/config"
-	"bitget/constants"
-	"bitget/internal"
+	"github.com/riddopic/bitget-golang-api/config"
+	"github.com/riddopic/bitget-golang-api/constants"
+	"github.com/riddopic/bitget-golang-api/internal"
 	"io/ioutil"
 	"net/http"
 	"strings"

@@ -1,10 +1,10 @@
 package broker
 
 import (
-	"bitget/constants"
-	"bitget/internal"
-	"bitget/internal/common"
-	"bitget/pkg/model/broker"
+	"github.com/riddopic/bitget-golang-api/constants"
+	"github.com/riddopic/bitget-golang-api/internal"
+	"github.com/riddopic/bitget-golang-api/internal/common"
+	"github.com/riddopic/bitget-golang-api/pkg/model/broker"
 )
 
 type BrokerAccountClient struct {

@@ -1,9 +1,9 @@
 package mix
 
 import (
-	"bitget/internal"
-	"bitget/pkg/model/mix/order"
 	"fmt"
+	"github.com/riddopic/bitget-golang-api/internal"
+	"github.com/riddopic/bitget-golang-api/pkg/model/mix/order"
 	"testing"
 )
 

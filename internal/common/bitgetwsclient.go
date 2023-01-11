@@ -1,13 +1,13 @@
 package common
 
 import (
-	"bitget/config"
-	"bitget/constants"
-	"bitget/internal"
-	"bitget/internal/model"
-	"bitget/logging/applogger"
 	"fmt"
 	"github.com/gorilla/websocket"
+	"github.com/riddopic/bitget-golang-api/config"
+	"github.com/riddopic/bitget-golang-api/constants"
+	"github.com/riddopic/bitget-golang-api/internal"
+	"github.com/riddopic/bitget-golang-api/internal/model"
+	"github.com/riddopic/bitget-golang-api/logging/applogger"
 	"github.com/robfig/cron"
 	"sync"
 	"time"

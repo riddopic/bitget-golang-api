@@ -1,10 +1,10 @@
 package ws
 
 import (
-	"bitget/constants"
-	"bitget/internal/common"
-	"bitget/internal/model"
-	"bitget/logging/applogger"
+	"github.com/riddopic/bitget-golang-api/constants"
+	"github.com/riddopic/bitget-golang-api/internal/common"
+	"github.com/riddopic/bitget-golang-api/internal/model"
+	"github.com/riddopic/bitget-golang-api/logging/applogger"
 	"strings"
 )
 

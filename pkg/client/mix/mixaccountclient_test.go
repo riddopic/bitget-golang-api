@@ -1,8 +1,8 @@
 package mix
 
 import (
-	"bitget/pkg/model/mix/account"
 	"fmt"
+	"github.com/riddopic/bitget-golang-api/pkg/model/mix/account"
 	"testing"
 )
 

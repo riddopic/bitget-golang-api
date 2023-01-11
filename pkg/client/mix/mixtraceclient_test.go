@@ -1,9 +1,9 @@
 package mix
 
 import (
-	"bitget/pkg/model/mix/trace"
 	"bytes"
 	"fmt"
+	"github.com/riddopic/bitget-golang-api/pkg/model/mix/trace"
 	"hash/crc32"
 	"testing"
 )

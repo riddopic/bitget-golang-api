@@ -1,8 +1,8 @@
 package ws
 
 import (
-	"bitget/internal/model"
 	"fmt"
+	"github.com/riddopic/bitget-golang-api/internal/model"
 	"testing"
 )
 

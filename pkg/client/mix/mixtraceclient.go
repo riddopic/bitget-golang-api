@@ -1,10 +1,10 @@
 package mix
 
 import (
-	"bitget/constants"
-	"bitget/internal"
-	"bitget/internal/common"
-	"bitget/pkg/model/mix/trace"
+	"github.com/riddopic/bitget-golang-api/constants"
+	"github.com/riddopic/bitget-golang-api/internal"
+	"github.com/riddopic/bitget-golang-api/internal/common"
+	"github.com/riddopic/bitget-golang-api/pkg/model/mix/trace"
 )
 
 type MixTraceClient struct {

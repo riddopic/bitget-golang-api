@@ -1,9 +1,9 @@
 package mix
 
 import (
-	"bitget/constants"
-	"bitget/internal"
-	"bitget/internal/common"
+	"github.com/riddopic/bitget-golang-api/constants"
+	"github.com/riddopic/bitget-golang-api/internal"
+	"github.com/riddopic/bitget-golang-api/internal/common"
 )
 
 type MixMarketClient struct {
@@ -128,7 +128,8 @@ func (p *MixMarketClient) Candles(symbol string, granularity string, startTime s
 	return resp, err
 }
 
-/**
+/*
+*
 获取币种指数。
 */
 func (p *MixMarketClient) Index(symbol string) (string, error) {

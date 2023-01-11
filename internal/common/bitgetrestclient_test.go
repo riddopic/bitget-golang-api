@@ -1,7 +1,7 @@
 package common
 
 import (
-	"bitget/internal"
+	"github.com/riddopic/bitget-golang-api/internal"
 	"testing"
 )
 

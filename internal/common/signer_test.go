@@ -1,8 +1,8 @@
 package common
 
 import (
-	"bitget/internal"
 	"fmt"
+	"github.com/riddopic/bitget-golang-api/internal"
 	"testing"
 )
 

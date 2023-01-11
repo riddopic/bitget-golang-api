@@ -1,8 +1,8 @@
 package spot
 
 import (
-	"bitget/pkg/model/spot/order"
 	"fmt"
+	"github.com/riddopic/bitget-golang-api/pkg/model/spot/order"
 	"testing"
 )
 

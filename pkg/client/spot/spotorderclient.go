@@ -1,10 +1,10 @@
 package spot
 
 import (
-	"bitget/constants"
-	"bitget/internal"
-	"bitget/internal/common"
-	"bitget/pkg/model/spot/order"
+	"github.com/riddopic/bitget-golang-api/constants"
+	"github.com/riddopic/bitget-golang-api/internal"
+	"github.com/riddopic/bitget-golang-api/internal/common"
+	"github.com/riddopic/bitget-golang-api/pkg/model/spot/order"
 )
 
 type SpotOrderClient struct {

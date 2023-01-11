@@ -1,9 +1,9 @@
 package internal
 
 import (
-	"bitget/constants"
 	"encoding/json"
 	"errors"
+	"github.com/riddopic/bitget-golang-api/constants"
 	"math"
 	"net/http"
 	"net/url"
